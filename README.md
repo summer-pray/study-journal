@@ -1,2 +1,2 @@
 # study-journal
-代码练习记录
+print("Hello world")
