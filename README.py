@@ -1,2 +1,2 @@
 # study-journal
-print("Hello world")
+重开ing
